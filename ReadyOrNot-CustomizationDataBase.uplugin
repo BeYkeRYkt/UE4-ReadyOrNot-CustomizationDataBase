@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
-	"Version": 5,
-	"VersionName": "2.3",
+	"Version": 6,
+	"VersionName": "2.4.0",
 	"FriendlyName": "ReadyOrNot-CustomizationDataBase",
 	"Description": "Extension for ReadyOrNot Customization items",
 	"Category": "Tools",
