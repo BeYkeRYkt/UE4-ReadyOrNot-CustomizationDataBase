@@ -1,5 +1,6 @@
 #pragma once
 #include "CoreMinimal.h"
+#include "Engine/DataAsset.h"
 #include "ECustomizationType.h"
 #include "EGameVersionRestriction.h"
 #include "CustomizationDataBase.generated.h"

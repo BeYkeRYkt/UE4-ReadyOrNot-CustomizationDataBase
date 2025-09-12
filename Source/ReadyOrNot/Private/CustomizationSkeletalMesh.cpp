@@ -2,6 +2,7 @@
 
 UCustomizationSkeletalMesh::UCustomizationSkeletalMesh() {
     this->bUseMasterPose = true;
+    this->bUseHeadSkelMaster = false;
 }
 
 
