@@ -12,7 +12,8 @@ enum class EGameVersionRestriction : uint8 {
     GVR_Maritime,
     GVR_ConsolePreOrderBonus,
     GVR_LosSuenosStories,
-    GVR_MAX_DLC = GVR_LosSuenosStories,
+    GVR_BoilingPoint,
+    GVR_MAX_DLC = GVR_BoilingPoint,
     GVR_Disabled = 254,
     GVR_Demo,
 };
